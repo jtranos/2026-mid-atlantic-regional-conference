@@ -22,6 +22,7 @@
 
 .school-logo {
   height: 64px;
+  max-width: 220px;
   margin-right: 10px;
 }
 
@@ -98,7 +99,7 @@
 }
 
 .li-anchor:hover {
-  background-color: rgb(153, 0, 0);
+  background-color: rgb(249, 196, 0);
   transition: background-color 0.3s ease-in-out;
 }
 
