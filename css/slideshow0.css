@@ -92,7 +92,7 @@
 }
 
 .slideshow-active, .slideshow-dot:hover {
-  background-color: rgb(204,0,51);
+  background-color: rgb(249,196,0);
   transition: background-color 0.3s ease;
 }
 
@@ -150,7 +150,7 @@
 }
 
 .registration-button {
-  background-color: rgb(204,0,51);
+  background-color: rgb(36,84,116);
   border-radius: 7px;
   color: white;
   text-align: center;
@@ -162,7 +162,7 @@
 }
 
 .registration-button:hover {
-  background-color: rgb(0,0,0);
+  background-color: rgb(249,196,0);
   transition: background-color 0.3s ease-in-out;
 }
 
